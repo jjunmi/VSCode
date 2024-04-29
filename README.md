@@ -7,6 +7,7 @@
 - Vue Language Features (Volar) (vue 태그 색상)
 - Prettier - code formatter(코드 정리)
 - Material Icon Theme
+- Es7+ React/Redux/React-Native Snippets (rcc / rfc)
 
 # VS CODE Snippets 설정
 스니팻 설정 > 설정 > User Snippets > html.jason > 코드 추가
