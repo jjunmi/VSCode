@@ -1,4 +1,5 @@
 # VSCode  
+## commend + ,  -> 설정
 ## 확장 프로그램  
 - Korean Language Pack  
 - Auto Rename Tag
@@ -10,7 +11,7 @@
 - Material Icon Theme
 - Es7+ React/Redux/React-Native Snippets (rcc / rfc)
 
-# VS CODE Snippets 설정
+## VS CODE Snippets 설정
 스니팻 설정 > 설정 > User Snippets > html.jason > 코드 추가
 
 ```javascript
